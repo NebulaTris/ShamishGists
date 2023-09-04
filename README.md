@@ -1,4 +1,8 @@
-# Website
+
+<p align="center"><img src="https://github.com/NebulaTris/NebuTriX/assets/94922914/3d18398d-d6f5-45a4-9a08-1c71c3aa509b" width="256"></img></p>
+
+<h1 align="center">NebuTriX</h1>
+My docusauras website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
