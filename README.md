@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://github.com/NebulaTris/NebuTriX/assets/94922914/3d18398d-d6f5-45a4-9a08-1c71c3aa509b" width="256"></img></p>
+<p align="center"><img src="https://github.com/NebulaTris/NebuTriX/assets/94922914/94359c97-ddae-4729-86dc-368eaac58762" width="256"></img></p>
 
 <h1 align="center">NebuTriX</h1>
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
