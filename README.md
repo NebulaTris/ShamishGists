@@ -2,42 +2,40 @@
 <p align="center"><img src="https://github.com/NebulaTris/NebuTriX/assets/94922914/94359c97-ddae-4729-86dc-368eaac58762" width="256"></img></p>
 
 <h1 align="center">NebuTriX</h1>
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+NebuTriX is an interactive Docusaurus static website dedicated to unraveling the mysteries of the cosmos. It serves as a comprehensive knowledge repository housing meticulously curated notes and captivating blogs, all focused on the boundless wonders of the universe.
 
-```
-$ yarn
-```
+## How to Use
 
-### Local Development
+1. **Clone the Repository:**
 
-```
-$ yarn start
-```
+    ```bash
+    git clone https://github.com/NebulaTris/NebuTriX.git
+    ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+2. **Launch the Website:**
 
-### Build
+    ```bash
+    cd NebuTriX
+    npm install
+    npm start
+    ```
 
-```
-$ yarn build
-```
+    This will start a local development server, allowing you to explore NebuTriX on your browser.
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## Contributing
 
-### Deployment
+If you'd like to contribute to NebuTriX by adding more notes, blogs, or improving the website's functionality, feel free to open a pull request. I welcome contributions from the community!
 
-Using SSH:
+## License
 
-```
-$ USE_SSH=true yarn deploy
-```
+This project is licensed under the [MIT License](LICENSE).
 
-Not using SSH:
+## Acknowledgements
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+I would like to express my gratitude to the open-source community for their invaluable contributions to the tools and libraries that make NebuTriX possible.
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+---
+
+Happy cosmic exploring! 🚀🌠
+
