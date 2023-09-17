@@ -1,5 +1,5 @@
 {
-  "name": "nebu-tri-x",
+  "name": "nebutrix",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -16,6 +16,7 @@
   "dependencies": {
     "@docusaurus/core": "2.4.1",
     "@docusaurus/preset-classic": "2.4.1",
+    "@easyops-cn/docusaurus-search-local": "^0.35.0",
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.2.1",
     "prism-react-renderer": "^1.3.5",
