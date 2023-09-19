@@ -3,6 +3,9 @@
 
 <h1 align="center">NebuTriX</h1>
 
+[![Project Status: WIP](https://img.shields.io/badge/Project%20Status-WIP-blue.svg)](https://github.com/NebulaTris/NebuTriX)
+[![Edit Anytime](https://img.shields.io/badge/Edit%20Anytime-Yes-brightgreen.svg)](https://github.com/NebulaTris/NebuTriX)
+
 NebuTriX is an interactive Docusaurus static website dedicated to unraveling the mysteries of the cosmos. It serves as a comprehensive knowledge repository housing meticulously curated notes and captivating blogs, all focused on the boundless wonders of the universe.
 
 ## How to Use
