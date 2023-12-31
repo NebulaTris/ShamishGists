@@ -6,19 +6,19 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'NebuTriX',
+  title: 'ShamishGists',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/NebuTriX/',
+  baseUrl: '/ShamishGists/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'NebulaTris', // Usually your GitHub org/user name.
-  projectName: 'NebuTriX', // Usually your repo name.
+  projectName: 'ShamishGists', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
@@ -59,14 +59,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/NebulaTris/NebuTriX/tree/main/",
+            "https://github.com/NebulaTris/ShamishGists/tree/main/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/NebulaTris/NebuTriX/tree/main/",
+            "https://github.com/NebulaTris/ShamishGists/tree/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -90,7 +90,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: "NebuTriX",
+        title: "ShamishGists",
         logo: {
           alt: "logo",
           src: "img/logo.png",
@@ -107,7 +107,7 @@ const config = {
             position: "left"
           },
           {
-            href: 'https://github.com/NebulaTris/NebuTriX',
+            href: 'https://github.com/NebulaTris/ShamishGists',
             position: "right",
             className: "header-github-link",
             "aria-label": "GitHub repository",
