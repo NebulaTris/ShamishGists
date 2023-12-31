@@ -1,7 +1,5 @@
 
-<p align="center"><img src="https://github.com/NebulaTris/ShamishGists/assets/94922914/94359c97-ddae-4729-86dc-368eaac58762" width="256"></img></p>
-
-<h1 align="center">ShamishGists</h1>
+<p align="center"><img src="readme_logo.png" width="500"></img></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Project%20Status-WIP-blue.svg"></img>
