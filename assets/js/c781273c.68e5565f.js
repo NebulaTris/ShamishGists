@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshamishgists=self.webpackChunkshamishgists||[]).push([[3303],{1843:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/ShamishGists/blog/tags/hola","allTagsPath":"/ShamishGists/blog/tags","count":1}')}}]);

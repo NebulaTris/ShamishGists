@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshamishgists=self.webpackChunkshamishgists||[]).push([[2535],{5641:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Long Blog Post","permalink":"/ShamishGists/blog/long-blog-post"},{"title":"First Blog Post","permalink":"/ShamishGists/blog/first-blog-post"}]}')}}]);
