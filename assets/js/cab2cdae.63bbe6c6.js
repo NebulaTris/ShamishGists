@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkshamishgists=self.webpackChunkshamishgists||[]).push([[7500],{1883:s=>{s.exports=JSON.parse('{"permalink":"/ShamishGists/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

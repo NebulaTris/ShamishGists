@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkshamishgists=self.webpackChunkshamishgists||[]).push([[4286],{6666:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/ShamishGists/blog/tags/docusaurus","allTagsPath":"/ShamishGists/blog/tags","count":2}')}}]);
