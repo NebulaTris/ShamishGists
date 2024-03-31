@@ -5,10 +5,6 @@ authors: jigyasa
 tags: [community service, animal welfare , donation, fund raising]
 ---
 
-This is the summary of the blog post,
-
-Use a `<!--` `truncate` `-->` comment to limit blog post size in the list view.
-
 <!--truncate-->
 
 In a world where the hustle and bustle often drown out the gentle whispers of the heart, there exists a haven of warmth and comfort where the soft purr of a cat and the playful bark of a dog bring joy to weary souls. This is the tale of my journey – a journey filled with laughter, love, and unforgettable moments shared with my furry companions.
@@ -30,5 +26,6 @@ And to Pawzz, the beacon of light that brought us together, I extend my deepest 
 As I bid farewell to my furry companions and Pawzz, I carry with me the memories of our time together – memories that will forever serve as a beacon of light in the darkest of times. And as I venture forth into the world, I do so with a heart full of love, a spirit filled with gratitude, and a soul forever touched by the magic of my furry companions.
 
 With boundless love and gratitude,
-Jigyasa Jha
 
+Jigyasa Jha
+<!--truncate-->

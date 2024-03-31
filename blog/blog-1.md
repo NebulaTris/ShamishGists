@@ -5,9 +5,6 @@ authors: shambhavi
 tags: [community service, animal welfare , donation, fund raising]
 ---
 
-This is the summary of the blog post,
-
-Use a `<!--` `truncate` `-->` comment to limit blog post size in the list view.
 
 <!--truncate-->
 
@@ -32,4 +29,6 @@ So, as I bid farewell to Pawzz, I carry with me the memories of moments shared, 
 To Pawzz, and to all those who dare to dream and make a difference – thank you for allowing me to be a part of something greater than myself. May our paths cross again, and may we continue to journey together towards a brighter tomorrow, one pawprint at a time.
 
 With heartfelt gratitude,
+
 Shambhavi Mishra
+<!--truncate-->
