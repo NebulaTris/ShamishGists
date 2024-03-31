@@ -1,6 +1,6 @@
 ---
 slug: Volunteering with Pawzz
-title: A Heartfelt Journey: Volunteering with Pawzz
+title: A Heartfelt Journey - Volunteering with Pawzz
 authors: shambhavi
 tags: [community service, animal welfare , donation, fund raising]
 ---

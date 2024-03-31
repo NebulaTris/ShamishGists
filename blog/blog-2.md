@@ -1,6 +1,6 @@
 ---
 slug: My Time with Furry Companions
-title: A Heartwarming Journey: My Time with Furry Companions
+title: A Heartwarming Journey - My Time with Furry Companions
 authors: jigyasa
 tags: [community service, animal welfare , donation, fund raising]
 ---
@@ -31,3 +31,4 @@ As I bid farewell to my furry companions and Pawzz, I carry with me the memories
 
 With boundless love and gratitude,
 Jigyasa Jha
+
