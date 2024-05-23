@@ -1,24 +1,29 @@
 # Module 2
 <details>
   <summary>Syllabus</summary>
+  <h3>Java 8 features</h3>
+    <ol>
+      <li>Intro to Functional programming</li>
+      <li>lambda expressions</li>
+      <li>Functional interfaces</li>
+      <li>Method references</li>
+      <li>Optional Class</li>
+      <li>Streams API</li>
+      <li>Data & Time API</li>
+      <li>Callable & Future Interfaces</li>
+      <li>Completable Future & Completion Stage</li>
+    </ol>
   
-  ### Java 8 features
- 1. Intro to Functional programming
- 2. lambda expressions
- 3. Functional interfaces
- 4. Method references
- 5. Optional Class
- 6. Streams API
- 7. Data & Time API
- 8. Callable & Future Interfaces
- 9. Completable Future & Completion Stage
- ### Brief intro Java 9-17 features
- 1. Private methods in interface
- 2. Collectors API & Immutable Collections
- 3. Var keyword
- 4. File APIs
- 5. Switch expressions
- 6. Text blocks
- 7. Records
+  <h3>Brief intro Java 9-17 features</h3>
+    <ol>
+      <li>Private methods in interface</li>
+      <li>Collectors API & Immutable Collections</li>
+      <li>Var keyword</li>
+      <li>File APIs</li>
+      <li>Switch expressions</li>
+      <li>Text blocks</li>
+      <li>Records</li>
+    </ol>
+ 
   
 </details>

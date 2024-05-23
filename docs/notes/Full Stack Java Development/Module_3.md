@@ -3,11 +3,14 @@
 <details>
   <summary>Syllabus</summary>
   
-  ### Version Control - Git
-  1. Introduction
-  2. Versioning, staging & un-staging
-  3. Branching, Merging, and rebase
-  4. Rollback, reset
-  5. Git ssh login
+  
+  <h3>Version Control - Git</h3>
+    <ol>
+      <li>Introduction</li>
+      <li>Versioning, staging & un-staging</li>
+      <li>Branching, Merging, and rebase</li>
+      <li>Rollback, reset</li>
+      <li>Git ssh login</li>
+</ol>
   
 </details>
