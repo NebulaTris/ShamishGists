@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkshamishgists=self.webpackChunkshamishgists||[]).push([[9558],{3759:s=>{s.exports=JSON.parse('{"label":"animal welfare","permalink":"/ShamishGists/blog/tags/animal-welfare","allTagsPath":"/ShamishGists/blog/tags","count":2}')}}]);
