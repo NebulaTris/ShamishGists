@@ -13,6 +13,8 @@ position: 1
 
 <p align="center">
 <h2>Unraveling the Cosmos, One Note at a Time! 🚀</h2>
+</p>
 
-<p align="justify">Dive into a cosmic journey where notes meet nebulae, and blogs orbit black holes of knowledge! ShamishGists is your portal to a universe of captivating insights, where learning feels like a cosmic adventure. From stellar notes that condense galaxies of information to blogs that supernova with creativity, join us on a celestial expedition through the wonders of the cosmos. Get ready to embark on a star-studded odyssey, right here on ShamishGists! 🌌📚</p>
+<p align="center">
+<img src="img/comic.jpg" width="100%" />
 </p>
