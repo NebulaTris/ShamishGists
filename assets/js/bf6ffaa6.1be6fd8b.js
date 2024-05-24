@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshamishgists=self.webpackChunkshamishgists||[]).push([[4089],{1620:s=>{s.exports=JSON.parse('{"label":"community service","permalink":"/ShamishGists/blog/tags/community-service","allTagsPath":"/ShamishGists/blog/tags","count":2}')}}]);

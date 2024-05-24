@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshamishgists=self.webpackChunkshamishgists||[]).push([[5596],{1142:s=>{s.exports=JSON.parse('{"name":"@easyops-cn/docusaurus-search-local","id":"default"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkshamishgists=self.webpackChunkshamishgists||[]).push([[5741],{5741:()=>{}}]);
