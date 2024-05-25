@@ -32,3 +32,7 @@
   <li>Web Performance: Optimize your code for speed and efficiency</li>
 </ol>
 </details>
+
+## Recommended Book
+
+[<h3>Laurence Lars Svekis, Maaike van Putten, Rob Percival - JavaScript from Beginner to Professional</h3>](https://github.com/NebulaTris/ShamishGists/blob/main/Books/Javascript/Laurence%20Lars%20Svekis%2C%20Maaike%20van%20Putten%2C%20Rob%20Percival%20-%20JavaScript%20from%20Beginner%20to%20Professional.pdf)

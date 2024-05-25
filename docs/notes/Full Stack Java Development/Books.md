@@ -1,10 +1,12 @@
 # Books
 
-<h2>Narasimha Karumanchi - Data Structures and Algorithms Made Easy</h2>
+## Recommended Books
 
-<iframe src="https://www.dropbox.com/scl/fi/z11db0mzxvsufyx7skkra/Narasimha-Karumanchi-Data-Structures-and-Algorithms-Made-Easy_-Data-Structures-and-Algorithmic-Puzzles-CareerMonk-Plublications.pdf?rlkey=zj6mv7sfci6l7w90mbcyo55vl&st=ru2apcqv&dl=0" width="100%" height="600px"></iframe>
+[<h3>1. Narasimha Karumanchi - Data Structures and Algorithms Made Easy</h3>](https://github.com/NebulaTris/ShamishGists/blob/main/Books/Java/Narasimha%20Karumanchi%20-%20Data%20Structures%20and%20Algorithms%20Made%20Easy_%20Data%20Structures%20and%20Algorithmic%20Puzzles-CareerMonk%20Plublications.pdf)
 
-<h2>Anghel Leonard - The Complete Coding Interview Guide in Java - Packt Publishing</h2>
 
-<iframe src="https://www.dropbox.com/scl/fi/wm0iphfus4varb5sf8xmr/Anghel-Leonard-The-Complete-Coding-Interview-Guide-in-Java_-An-effective-guide-for-aspiring-Java-developers-to-ace-their-programming-interviews-Packt-Publishing.pdf?rlkey=f6klaxywq39a9qjaybwe9alsm&st=n6jocapb&dl=0" width="100%" height="600px"></iframe>
+[<h3>2. Anghel Leonard - The Complete Coding Interview Guide in Java</h3>](https://github.com/NebulaTris/ShamishGists/blob/main/Books/Java/Anghel%20Leonard%20-%20The%20Complete%20Coding%20Interview%20Guide%20in%20Java_%20An%20effective%20guide%20for%20aspiring%20Java%20developers%20to%20ace%20their%20programming%20interviews-Packt%20Publishing.pdf)
+
+[<h3>3. Bloch, Joshua - Effective Java</h3>](https://github.com/NebulaTris/ShamishGists/blob/main/Books/Java/Bloch%2C%20Joshua%20-%20Effective%20Java-Pearson%20Education%20Limited%20(US%20titles)%20_Addison%20Wesley%20Professional.pdf)
+
 
